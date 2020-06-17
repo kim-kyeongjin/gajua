@@ -10,5 +10,5 @@
 [*학습률 최적화,군집 분석 구현, Cost Function 구현](https://github.com/kim-kyeongjin/gajua/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 *위의 파일이 열리지 않는 다면 이 방식으로 업로드 해주세요. -> [3주차 과제 nbviewer](https://nbviewer.jupyter.org/github/kim-kyeongjin/gajua/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 ## 4주차 과제 (2020.06.11)
-[*딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파& 역전파 계산]()
-*위의 파일이 열리지 않는 다면 이 방식으로 업로드 해주세요. -> [4주차 과제 nbviewer]()
+[*딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파& 역전파 계산](https://github.com/kim-kyeongjin/gajua/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
+*위의 파일이 열리지 않는 다면 이 방식으로 업로드 해주세요. -> [4주차 과제 nbviewer](https://nbviewer.jupyter.org/github/kim-kyeongjin/gajua/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
